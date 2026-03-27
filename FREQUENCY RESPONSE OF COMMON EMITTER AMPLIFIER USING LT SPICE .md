@@ -20,8 +20,7 @@
 
 ## MODEL GRAPH
 
-![WhatsApp Image 2026-03-27 at 7 07 48 PM (1)](https://github.com/user-attachments/assets/ec2bd4b5-a41e-4018-acad-45ec69ee41f9)
-
+![WhatsApp Image 2026-03-27 at 7 12 41 PM](https://github.com/user-attachments/assets/d3b7e50d-ef31-430c-b55c-db13e0ad639b)
 
 
 ## Graph
