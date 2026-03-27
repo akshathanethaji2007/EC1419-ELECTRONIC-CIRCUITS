@@ -14,22 +14,21 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+![WhatsApp Image 2026-03-27 at 7 07 48 PM](https://github.com/user-attachments/assets/c865a812-61e8-4c71-8a17-6603aabea22e)
+
 
 
 ## MODEL GRAPH
 
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+![WhatsApp Image 2026-03-27 at 7 07 48 PM (1)](https://github.com/user-attachments/assets/ec2bd4b5-a41e-4018-acad-45ec69ee41f9)
 
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
 
 ## Graph
-<img width="1911" height="494" alt="image" src="https://github.com/user-attachments/assets/984fb3b5-71c2-42ff-b6cf-49a7ec02e082" />
 
-![WhatsApp Image 2025-11-14 at 13 16 14_7d7119b6](https://github.com/user-attachments/assets/8381eae1-240f-4ede-9da4-3e9c098cc0ac)
+
+![WhatsApp Image 2026-03-27 at 7 07 48 PM (2)](https://github.com/user-attachments/assets/44aaeb74-3dd6-403e-8707-98c8872c3254)
+
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
