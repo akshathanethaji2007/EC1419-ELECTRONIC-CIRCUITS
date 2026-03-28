@@ -13,7 +13,8 @@
 
 ## GRAPHS
 
-![e2](https://github.com/user-attachments/assets/208b1f5a-80a5-48b7-a486-064ea4631b17)
+![WhatsApp Image 2026-03-28 at 10 43 56 AM](https://github.com/user-attachments/assets/afb94b52-71ca-4ab3-ac6e-13cba029ba0f)
+
 
 
 
