@@ -9,7 +9,7 @@
 
 ## Graph
 
-![wain](https://github.com/user-attachments/assets/cd571ab1-52bf-48f6-b151-c276e15933fc)
+<img width="1600" height="690" alt="image" src="https://github.com/user-attachments/assets/386de86b-4cb1-4ba8-aa09-e566126edd64" />
 
 
 
