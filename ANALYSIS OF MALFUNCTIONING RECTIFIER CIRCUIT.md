@@ -10,6 +10,7 @@
 | **Theoretical Frequency of Oscillation** | **1 kHz**    |
 | **Practical Frequency of Oscillation**   | **0.98 kHz** |
 
+![WhatsApp Image 2026-03-28 at 10 53 04 AM](https://github.com/user-attachments/assets/ad231d91-38d5-4f3d-a8f1-5ad86025cb9a)
 
 ## GRAPHS
 
